@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "SPEX — The Changing Sky" },
+    { "path": "/?tab=home", "title": "SPEX Home" },
+    { "path": "/?tab=explore", "title": "Explore observations" },
+    { "path": "/?tab=cases", "title": "Investigation cases" },
+    { "path": "/?tab=mission", "title": "The Cosmic Detective" },
+    { "path": "/?tab=about", "title": "About SPEX" }
+  ]
+}
